@@ -16,13 +16,80 @@ knitr::opts_chunk$set(cache=TRUE)
 
 \large
 
-## Theoretical Framework
+* International climate summits have fallen short of expectations
 
-## Empirical Framework  
+* Debates about which institutional features lead to successful agreements
 
-## Data
+* Climate agreements are incomplete contracts:
+	- Take domestic circumstances into account
+	- Voluntary goals (e.g., Nationally Determined Contributions)
+	- More accountability, but higher transaction costs
+
+* Increases the importance of local elites
+
+## Introduction
+
+* Elites act as _de facto_ veto players in local environmental policies
+
+* Behavior of elite groups -- advocacy groups, lobbyists, political coalitions -- explains countries' climate policy performance (Jahn 2016; Karapin 2012)
+
+* "Societal steering" (Andonova et al. 2009; Bulkeley et al 2014): capacity building and rule-setting
+
+## Puzzle
+
+* Recent studies on public opinion and climate agreements (Aklin et al 2013; Bechtel and Scheve 2013; Mildenberger and Tingley 2017)
+
+* Elite preferences not documented in the literature
+
+* Elite coalitions are important in international trade and finance
+
+* _What climate agreement are elites willing to support?_
+
+## Data and Methods
+
+* Conjoint experiments to estimate the effect of institutional features on climate agreements
+
+* Elites in Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Panama, and Peru:
+	- 101 members of the executive
+	- 61 members of the legislative
+	- 194 academics in the energy sector
+	- 226 Members civil society
+
+* Each respondent evaluated 7 pairs of conjoint experiments
+
+## Data and Methods
+
+![Attributes and values for climate change mitigation conjoint experiments](table.png)
+
+## Example
+
+![Example of conjoint experiment presented to respondents](conjoint-cropped.pdf)
 
 ## Results
+
+![Effect of institutional attributes on the probability of support for climate change agreements in 10 Latin American countries](MM_all.pdf)
+
+## Who Makes the Rules?
+
+![International organizations: 54%; federal government: 49%; local government: 50%; local communities: 52%; NGOs: 45%](MM1.pdf)
+
+* Elites favor international organizations and local governments; distrust NGOs
+
+* Results support long Latin American tradition of reliance on the state
+
+## How Are Conflicts Resolved?
+
+![United Nations: 57%; local courts: 54%; arbitration: 50%; government bureaucracy: 46%; informal norms: 41%](MM2.pdf)
+
+* Similar pattern: respondents prefer the UN and local courts
+
+* Informal norms are the least preferred option
+
+## What Punishment Do They Use?
+
+![Fines: 55%; blacklist: 52%; imprisonment: 46%; none: 45%](MM3.pdf)
+
+
 
 ## Limitations
 
