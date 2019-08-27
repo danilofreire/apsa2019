@@ -41,7 +41,7 @@ knitr::opts_chunk$set(cache=TRUE)
 
 * Elite preferences not documented in the literature
 
-* Elite coalitions are important in international trade and finance
+* Elite coalitions crucial in trade regimes and banking regulation (e.g., Chalmers 2017; Pagliari and Young 2014)
 
 * _What climate agreement are elites willing to support?_
 
@@ -49,11 +49,11 @@ knitr::opts_chunk$set(cache=TRUE)
 
 * Conjoint experiments to estimate the effect of institutional features on climate agreements
 
-* Elites in Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Panama, and Peru:
-	- 101 members of the executive
-	- 61 members of the legislative
+* 654 elites members in Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Panama, and Peru:
+	- 101 members of executive
+	- 61 legislators
 	- 194 academics in the energy sector
-	- 226 Members civil society
+	- 226 members of civil society
 
 * Each respondent evaluated 7 pairs of conjoint experiments
 
