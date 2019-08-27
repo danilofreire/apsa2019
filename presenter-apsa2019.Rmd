@@ -1,0 +1,43 @@
+---
+author: "Danilo Freire, Brown University \\newline Umberto Mignozzetti, NYU/FGV \\newline David Skarbek, Brown University"
+title: Institutional Design and Elite Support for Climate Policies
+subtitle: Evidence from Latin American Countries
+date: "29 August 2019"
+output: binb::metropolis
+fontsize: 13pt
+toc: false
+---
+
+```{r,setup, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
+
+## Introduction
+
+\large
+
+## Theoretical Framework
+
+## Empirical Framework  
+
+## Data
+
+## Results
+
+## Limitations
+
+## Conclusion
+
+## Let's Keep in Touch
+
+\Large
+**Danilo Freire**
+
+\normalsize
+Postdoctoral Research Associate, The Political Theory Project, Brown University
+
+<danilofreire@brown.edu>
+
+<http://danilofreire.github.io>
+
+<http://twitter.com/danilofreire>
